@@ -250,28 +250,8 @@ Results are saved in `results/EVALUATION_RESULTS.txt` with per-dataset metrics:
    - Visualize abundance maps for quality assessment
    - Check endmember extraction accuracy
 
-## 📄 License
 
-[Add appropriate license information here]
 
-## 🙏 Citation
 
-If you use this code, please cite the original paper:
 
-```bibtex
-@article{qi2023msss,
-  title={MSSS-Net: Multi-Stream Spatial-Spectral Network for Hyperspectral Unmixing},
-  author={Qi, et al.},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  year={2023}
-}
-```
 
-## 📧 Contact & Support
-
-For issues, questions, or contributions, please open an issue or contact the project maintainers.
-
----
-
-**Last Updated**: May 2024  
-**Status**: Active Development
